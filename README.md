@@ -8,7 +8,8 @@ Layer	Technology
 Frontend	HTML, CSS, JavaScript
 Backend	Node.js, Express.js
 Database	MongoDB (Compass / Atlas)
-📌 Features
+
+📌 Features:
 
 ✔ Add and save user data
 ✔ MongoDB database connection
