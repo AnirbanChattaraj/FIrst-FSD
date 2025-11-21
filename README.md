@@ -21,9 +21,7 @@ Backend can be deployed on Render
 
 Frontend can be deployed on Netlify / Vercel
 
-👤 Author
-
-Anirban Chattaraj
+👤 Author>>Anirban Chattaraj
 
 📌 Passionate full-stack developer in progress 🚀
 
